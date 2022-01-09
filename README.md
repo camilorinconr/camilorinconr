@@ -20,8 +20,8 @@
 <div> 
 <a href="https://github.com/camilorinconr">
 
-  <img heigth="50em" src="https://github-readme-stats.vercel.app/api?username=camilorinconr&show_icons=true&theme=merko"/>
-  <img heigth="50em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilorinconr&layout=compact&langs_count=16&theme=merko"/>
+  <img heigth="50rem" src="https://github-readme-stats.vercel.app/api?username=camilorinconr&show_icons=true&theme=merko"/>
+  <img heigth="50rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilorinconr&layout=compact&langs_count=16&theme=merko"/>
 </div> <hr>
   
   <div style="display:inline_block"><br>
