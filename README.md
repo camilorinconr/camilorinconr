@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there Andrés Rincón👋
 
 - 🔭 Hoja de trabajo 
