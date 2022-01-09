@@ -4,6 +4,12 @@
 - 🌱 Estudiante Ingenieria de sistemas
 - 👨‍💻 Estudiando hacking etico
 <hr>
+
+<div>
+  <h1>Contactos:</h1>
+  
+ </div>
+  <hr>
 <div> 
 <a href="https://github.com/camilorinconr">
 
