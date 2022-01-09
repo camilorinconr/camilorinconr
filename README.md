@@ -19,3 +19,5 @@
     
   </div><hr>
   
+  
+  ![Snake animation](https://github.com/camilorinconr/camilorinconr/blob/output/github-contribution-grid-snake.svg)
