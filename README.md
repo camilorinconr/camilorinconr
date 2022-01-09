@@ -18,6 +18,6 @@
     <img alingn="center"  heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
     
     
-    
+    ![Snake animation](https://github.com/camilorinconr/camilorinconr/blob/output/github-contribution-grid-snake.svg)
     
   </div><hr>
