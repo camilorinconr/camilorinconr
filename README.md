@@ -12,6 +12,8 @@
 </div> <hr>
   
   <div style="display:inline_block"><br>
+    
+    <h1>Lenguajes utilizados</h1>
     <img alingn="center"  heigth="40px" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  />
     <img alingn="center"  heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img alingn="center"  heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
