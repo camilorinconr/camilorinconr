@@ -11,7 +11,7 @@
   <a href="ccc"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" targer="_blank"></a>
   <a href="https://www.instagram.com/c.andres1489/ target: _blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" targer="_blank"></a>
   <a href="https://www.facebook.com/Cmilo.a.rincon"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" targer="_blank"></a>
-  <a href="https://www.linkedin.com/in/camilo-andres-rincon-santiago-56109a229/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" targer="_blank"></a>
+  <a href="https://www.linkedin.com/in/camilo-andres-rincon-santiago-56109a229/" targer= "_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" targer="_blank"></a>
   
   
  </div>
